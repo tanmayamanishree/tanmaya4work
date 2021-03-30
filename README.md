@@ -2,3 +2,4 @@
 - 👀 I’m interested in Web Development and Python Programming
 - 🌱 I’m currently learning Front End Web Development and Data structures with Python
 - 📫 You can reach me at: Linkedin: Tanmaya Gampa
+- 📝 Currently Working: GQC(GITAM QUIZ CLUB) Website, as a member of SIG Genesis
