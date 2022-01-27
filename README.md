@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tanmaya4work
 - 👀 I’m interested in Web Development and Python Programming
-- 🌱 I’m currently learning Front End Web Development and Data structures with Python
+- 🌱 I’m currently learning Web Development and Data structures with Python
 - 📫 You can reach me at: Linkedin: https://www.linkedin.com/in/tanmaya-gampa-46534a192/
